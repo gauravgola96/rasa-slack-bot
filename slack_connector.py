@@ -12,7 +12,7 @@ def run():
     action_endpoint = EndpointConfig(url="http://localhost:5055/webhook")
     agent = Agent.load('./models/dialogue/default/dialogue_model', interpreter=nlu_interpreter,action_endpoint=action_endpoint)
     input_channel = SlackInput(
-        slack_token="xoxb-673242585665-673266261441-Z26pD2yaxVv0KmHnohoQizdk"
+        slack_token="XXXX"
         # this is the `bot_user_o_auth_access_token`
         # slack_channel="YOUR_SLACK_CHANNEL"
         # the name of your channel to which the bot posts (optional)
