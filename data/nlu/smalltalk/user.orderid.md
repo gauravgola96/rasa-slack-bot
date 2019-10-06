@@ -1,0 +1,19 @@
+## intent:user.orderid
+ - question : How many Byes have Against of 1076 and Wins smaller than 13?
+ - question : What year was mcmahon stadium founded?
+ - question : What is the MIntage after 2006 of the Ruby-Throated Hummingbird Theme coin?
+ - question : Which team is in the Southeast with a home at Philips Arena?
+ - question : If the equation is (10 times 8) + 4, what would be the 2nd throw?
+ - question : what is the  status of order id 5566472901?
+ - question : How many times has Ma Long won the men’s singles?
+ - question : What is the  total number of offensive rebounds for players with under 65 total rebounds, 5 defensive rebounds, and under 7 assists?
+ - question : Which Number of electorates (2009) has a Constituency number of 46?
+ - question : Who was home at Princes Park?
+ - question : how many capital cities does Australia have?
+ - question : what is the source of id 36011 ? 
+ - question : what is the responder_id of id 44882?
+ - question : what is the average of order ?
+ - question : what is the count of orders with id 1231 ?
+ - question : what is the average of 
+ - question : How was the count of something similiar 
+ - question : how many bag id belongs to store id 67?

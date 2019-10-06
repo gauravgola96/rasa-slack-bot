@@ -1,0 +1,15 @@
+## intent:agent.sql
+- run sql
+- Can i use your sql feature?
+- please run text to sql 
+- run text to sql 
+- mlsql
+- I want to use your text to Structured query language feature
+- i want to use text to sql
+- sql
+- help me to create to sql query 
+- can you call text to sql api?
+- please run sql feature
+- run text to sql for me
+- please help me with text to sql
+- run sql for me
