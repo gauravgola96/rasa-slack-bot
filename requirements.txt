@@ -7,7 +7,7 @@ jsonpickle==0.9.4
 keras==2.0.8
 numpy==1.22.0
 pandoc==1.0.0b2
-redis==2.10.5
+redis==4.5.3
 six==1.11.0
 #tensorflow==1.4.1
 typing==3.6.2
